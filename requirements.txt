@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+statsmodels
+lifelines
+xgboost
+pygwalker
+fairlearn
+shap
+dice-ml
+optuna
